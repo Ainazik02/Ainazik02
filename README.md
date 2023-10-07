@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hey! This is <a href="https://github.com/Ainazik02">Ainazik</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1> Hey! This is <a href="https://github.com/Ainazik02">Ainazik</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 🎓 Majoring **Computer Science** at [North American University](https://www.na.edu/) with an intended graduation date of December 2023. 
