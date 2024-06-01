@@ -1,9 +1,9 @@
 <h1> Hey! This is <a href="https://github.com/Ainazik02">Ainazik</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-🎓 Majoring **Computer Science** at [North American University](https://www.na.edu/) with an intended graduation date of December 2023. 
+🎓 Graduated with  **Bachelor od Science in Computer Science** degree from [North American University](https://www.na.edu/) on December 2023. 
 
-🎯 I am currently looking for **2024 SWE New Grad** roles with start date of January.
+🎯 I am currently looking for **SWE New Grad** roles.
 
 👩‍💻 I am the president of ACM, Association for Computing in Machinery. The mission of the organization is to educate students on real world applications of their skills. Through leading workshops, facilitating events with experienced professionals, and working together with the team to create projects related to robotics and web development, I have helped increase the community size by 20% in the last year.
  
