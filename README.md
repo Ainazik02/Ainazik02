@@ -1,7 +1,7 @@
 <h1> Hey! This is <a href="https://github.com/Ainazik02">Ainazik</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-🎓 Graduated with  **Bachelor od Science in Computer Science** degree from [North American University](https://www.na.edu/) on December 2023. 
+🎓 Graduated with  **Bachelor of Science in Computer Science** degree from [North American University](https://www.na.edu/) on December 2023. 
 
 🎯 I am currently looking for **SWE New Grad** roles.
 
